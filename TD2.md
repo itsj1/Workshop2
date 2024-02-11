@@ -67,7 +67,7 @@ Même chose que précédemment :
 ![image](https://github.com/itsj1/Workshop2/assets/152192122/98ffc10e-3443-40f3-9ae9-412e3a818280)
 
 
-
+On observe que que les fichiers on les mêmes hashages ! 
 
 
 
