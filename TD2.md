@@ -39,6 +39,33 @@
 
 
 
+# IPFS
+
+## Q1 - Téléchargez l'image précédente sur IPFS. 
+
+On importe via l'application bureau l'image voulu : 
+
+![image](https://github.com/itsj1/Workshop2/assets/152192122/7fcf929f-e92b-41ae-96f4-0bc7498262fa)
+
+On retrouve bien le lien CID
+
+
+## Q2 - Téléchargez maintenant la partition1 sur IPFS. Qu'observez-vous par rapport à la partie torrent ? 
+
+On importe via l'application bureau le dossier voulu : 
+
+![image](https://github.com/itsj1/Workshop2/assets/152192122/bc4a492c-be65-456a-b84a-c089a853b5a2)
+
+
+On observe que par rapport à la partie torrent, le hachage est différent de celui du torrent. L'image et l'image à l'intérieur du dossier ont le même hachage. Nous savons que la principale différence entre IPFS et torrent réside dans la manière dont les fichiers sont partagés et identifiés. Torrent divise les fichiers en morceaux et utilise des trackers centralisés pour faciliter les téléchargements, tandis qu'IPFS utilise des hachages pour identifier les fichiers et les distribue via un réseau de nœuds décentralisés.
+
+
+## Q3 - Copiez le dossier partition1 puis générez le torrent associé. Qu'observez-vous ?
+
+Même chose que précédemment : 
+
+![image](https://github.com/itsj1/Workshop2/assets/152192122/98ffc10e-3443-40f3-9ae9-412e3a818280)
+
 
 
 
