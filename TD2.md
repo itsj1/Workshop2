@@ -13,12 +13,13 @@
 
 ## Q2 - Copiez maintenant l'image dans un nouveau répertoire nommé partition1 et créez un torrent de ce dossier. Qu'observez-vous ?
 
-torrent create partition1 -o chaton.torrent
+
 
 1. Utilisez la commande suivante pour copiez l'image dans un nouveau répertoire nommé partition1 :
 
    ```bash 
-   mktorrent -o image.torrent chaton.jpeg
+   torrent create partition1 -o chaton.torrent
+   
 
 
 ## Q3 -Copiez le dossier partition1 puis générez le torrent associé. Qu'observez-vous ?
@@ -27,6 +28,7 @@ torrent create partition1 -o chaton.torrent
 
    ```bash 
    torrent create partition1 -o chaton.torrent
+
 
 
 ## Voici un screen des fichier crée : 
