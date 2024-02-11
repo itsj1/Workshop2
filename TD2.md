@@ -1,6 +1,6 @@
 ## Upload de fichiers sur IPFS en utilisant Pinata
 
-Pour uploader des fichiers sur IPFS en utilisant Pinata, suivez ces étapes simples :
+Pour uploader des fichiers sur IPFS en utilisant Pinata, j'ai suivie les étapes suivantes :
 
 1. **Créer un fichier `pinata.js`** : Copiez-collez le code fourni dans un nouveau fichier nommé `pinata.js`.
 
