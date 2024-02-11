@@ -45,9 +45,7 @@
 
 
 
-
-
-## Upload de fichiers sur IPFS en utilisant Pinata
+# Upload de fichiers sur IPFS en utilisant Pinata
 
 Pour uploader des fichiers sur IPFS en utilisant Pinata, j'ai suivie les étapes suivantes :
 
